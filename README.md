@@ -1,6 +1,6 @@
 # cruddy-flask-app
-# cruddy-flask-app. This Flask App was started with Bing-Chat 
-# 
+# This Flask App was started with Bing-Chat 
+# cruddy-flask-app
 from flask import Flask, request, jsonify
 from flask_sqlalchemy import SQLAlchemy
 
